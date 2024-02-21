@@ -10,17 +10,17 @@ Schematics, KiCad project files and Gerbers export .zip files are included in fo
 
 A CST Studio Suite 2023 files are stored in [CST](https://github.com/FranPosi/LoRAK/CST 2023 models)
 
-![alt text](https://github.com/FranPosi/LoRAK/blob/3D.png?raw=true)
+![alt text](https://github.com/FranPosi/LoRAK/images/blob/3D.png?raw=true)
 
 
 ## Measurements: 
 
 |S11| simulated and measured results comparison:
 
-![alt text](https://github.com/FranPosi/LoRAK/blob/S11-meas.png?raw=true)
+![alt text](https://github.com/FranPosi/LoRAK/images/blob/S11-meas.png?raw=true)
 
 And measured RHCP and LHCP radiation pattern: 
 
-![alt text](https://github.com/FranPosi/LoRAK/blob/Polar-Phi0-measAlone.png?raw=true)
+![alt text](https://github.com/FranPosi/LoRAK/images/blob/Polar-Phi0-measAlone.png?raw=true)
 
-![alt text](https://github.com/FranPosi/LoRAK/blob/Polar-Phi90-measAlone.png?raw=true)
+![alt text](https://github.com/FranPosi/LoRAK/images/blob/Polar-Phi90-measAlone.png?raw=true)
