@@ -8,7 +8,7 @@ Printed on both layer of low cost FR-4 (0.8 mm thick) substrate.
 
 Schematics, KiCad project files and Gerbers export .zip files are included in folder [CAD](https://github.com/FranPosi/LoRAK/CAD).
 
-A CST Studio Suite 2023 files are stored in [CST](https://github.com/FranPosi/LoRAK/CST 2023 models)
+A CST Studio Suite 2023 files are stored in [CST](https://github.com/FranPosi/LoRAK/CST_models)
 
 ![alt text](https://github.com/FranPosi/LoRAK/blob/main/images/3D.png)
 
